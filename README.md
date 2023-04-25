@@ -1,12 +1,13 @@
 ## Python medžiaga
 
-Visas parašytas kodas yra parašytas `.ipynb` formatu ir yra skirtas dirbti debesyse (google colab platformoje).
+Visas parašytas kodas yra parašytas `.ipynb` formatu ir yra skirtas dirbti debesyse (google drive) naudojant [google colab](https://colab.research.google.com/) Python redaktorių.
 
 ### Projekto struktūra
 
-    ├── /Python-pagrindai  # konspektai
-    ├── /Scripts           # nedidelės programėlės
-    └── /Assets            # media failai
+    ├── /ML-AI             # mašininio mokymosi (ML) ir dirbtinio intelekto (AI) programų pavyzdžiai 
+    ├── /Python-pagrindai  # Python programavimo pamokų konspektai
+    ├── /Scripts           # paprastų programėlės (script'ų) katalogas skirtas parodyti įvairias Python taikymo galimybes
+    └── /Tikimybes         # tikimybių teorijos pamokų konspektai
 
 ### Pagrindinės bibliotekos
 
