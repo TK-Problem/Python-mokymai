@@ -2,4 +2,7 @@
 
 Įvairūs statistinių, kompiuterinių ir AI modelių pavyzdžiai skirti išsipręsti įvairioms problemoms.
 
-* `AI_paveiksliukai.ipynb` Python script'as, kuris leidžia su AI generuoti paveiksliukus naudojant nemokamą google GPU.
+* `ai_paveiksliukai.ipynb` grafinis aplinka skirta generuoti AI paveiksliukams (laikinai neveikia).
+* `SD_infinite_zoom.ipynb` generuoja `zoom-out` tipo video (2023-06-25).
+
+* Skliausteliuose įrašyta, kada paskutinį kartą buvo testuota programa.
