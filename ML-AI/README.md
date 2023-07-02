@@ -1,8 +1,7 @@
 ## Praktiniai modelių pavyzdžiai
 
-Įvairūs statistinių, kompiuterinių ir AI modelių pavyzdžiai skirti išsipręsti įvairioms problemoms.
+Įvairūs statistinių, kompiuterinių ir AI modelių kūrimo ir taikymo pavyzdžiai.
 
-* `ai_paveiksliukai.ipynb` grafinis aplinka skirta generuoti AI paveiksliukams (laikinai neveikia).
 * `SD_infinite_zoom.ipynb` generuoja `zoom-out` tipo video (2023-06-25).
 
 * Skliausteliuose įrašyta, kada paskutinį kartą buvo testuota programa.
